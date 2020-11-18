@@ -3,4 +3,4 @@
 	url = https://github.com/linehk/hugo-theme-even.git
 [submodule "themes/somrat"]
 	path = themes/somrat
-	url = git@github.com:Somrat37/somrat.git
+	url = git@github.com:Likewind/somrat.git
